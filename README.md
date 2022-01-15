@@ -18,7 +18,7 @@
 
 详情可以参考以下教程
 
-[![7Jz8nx.png](https://s4.ax1x.com/2022/01/15/7Jz8nx.png)](https://imgtu.com/i/7Jz8nx)
+[![7Jz8nx.png](https://s4.ax1x.com/2022/01/15/7Jz8nx.png)]()
 
 [Haths Blog - ios自签方法汇总](https://blog.haths.net/146/)
 
