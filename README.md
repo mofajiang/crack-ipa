@@ -23,4 +23,5 @@
 [Haths Blog - ios自签方法汇总](https://blog.haths.net/146/)
 
 ---
-
+## 牛逼项目
+[iOS-Patched-IPAs]( https://github.com/Netskao/iOS-Patched-IPAs)
