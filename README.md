@@ -24,4 +24,5 @@
 
 ---
 ## 牛逼项目
-[iOS-Patched-IPAs]( https://github.com/Netskao/iOS-Patched-IPAs)
+- [iOS-Patched-IPAs](https://github.com/Netskao/iOS-Patched-IPAs)
+- [MacOS-App-Crack](https://github.com/xcanwin/MacOS-App-Crack)
